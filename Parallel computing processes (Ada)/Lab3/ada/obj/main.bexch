@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+D:\Study\3course\2 semestr\POP\Lab3\ada\default.gpr
+20231003161034 3f7b51b3c4a4ddb57694fb175dfcb751
+[BOUND OBJECT FILES]
+D:\Study\3course\2 semestr\POP\Lab3\ada\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LD:\Study\3course\2 semestr\POP\Lab3\ada\obj\
+-LD:\Study\3course\2 semestr\POP\Lab3\ada\obj\
+-LC:/gnat/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

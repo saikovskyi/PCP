@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>D:\Study\3course\2 semestr\POP\Lab3\ada\default.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>D:\Study\3course\2 semestr\POP\Lab3\ada\default.gpr</vfs_project>
+      <vfs_file>D:\Study\3course\2 semestr\POP\Lab3\ada\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >D:\Study\3course\2 semestr\#208;#159;#208;#158;#208;#159;\Lab3\ada\default.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >D:\Study\3course\2 semestr\#208;#159;#208;#158;#208;#159;\Lab3\ada\default.gpr</vfs_project>
+      <vfs_file >D:\Study\3course\2 semestr\#208;#159;#208;#158;#208;#159;\Lab3\ada\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

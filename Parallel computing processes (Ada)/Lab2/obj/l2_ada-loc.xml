@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Study\3course\2 semestr\POP\Lab2\l2_ada.gpr</vfs_project>
+      <vfs_file>D:\Study\3course\2 semestr\POP\Lab2\src\Lab2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\Study\3course\2 semestr\POP\Lab2\l2_ada.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 4" >
+      <vfs_project />
+      <vfs_file>D:\Study\3course\2 semestr\POP\Lab2\l2_ada.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Study\3course\2 semestr\POP\Lab2\l2_ada.gpr</vfs_project>
+      <vfs_file>D:\Study\3course\2 semestr\POP\Lab2\src\Lab2.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>D:\Study\3course\2 semestr\POP\Lab2\l2_ada.gpr</vfs_project>
+      <vfs_file>D:\Study\3course\2 semestr\POP\Lab2\src\Main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >D:\Study\3course\2 semestr\#208;#159;#208;#158;#208;#159;\Lab2\l2_ada.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >D:\Study\3course\2 semestr\#208;#159;#208;#158;#208;#159;\Lab2\l2_ada.gpr</vfs_project>
+      <vfs_file >D:\Study\3course\2 semestr\#208;#159;#208;#158;#208;#159;\Lab2\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
